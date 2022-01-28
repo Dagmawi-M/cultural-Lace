@@ -905,3 +905,11 @@
 1526093416 c:\program files\codeblocks\mingw\x86_64-w64-mingw32\include\math.h
 	<crtdefs.h>
 
+1643397562 source:c:\repo\cultural-lace\dantel1\main.cpp
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	<math.h>
+	<algorithm>
+
