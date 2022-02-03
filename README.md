@@ -1,7 +1,7 @@
 # cultural-Lace
- An Interactive GUI Based Graphics Application for Ethiopian Cultural lace Design using OpenGL.(c++)
+                               An Interactive GUI Based Graphics Application for Ethiopian Cultural lace Design using OpenGL.(c++)
  
-                                                                            **Dantel One : Andandiyosh **                                
+                                                                 **Dantel One : Andandiyosh **                                
  The Term andandiyosh derives from the weaving technique the makers of lace use. The Flower simply represents the shape that the lace makes when the larger parallel circles fold to the front part of the design. The Andadiyosh Flower design was mainly made,  and used in Addis Ababa, and was a popular choice for the middle class starting from the 80s until the early years of the Ethiopian Millennium. 
  
  
